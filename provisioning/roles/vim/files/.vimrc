@@ -36,6 +36,8 @@ set smarttab
 set expandtab
 set smartindent
 
+set cursorline
+set hlsearch
 
 "the status bar is always displayed
 
