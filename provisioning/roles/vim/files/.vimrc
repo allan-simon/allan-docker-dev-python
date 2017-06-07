@@ -1,6 +1,7 @@
 filetype plugin on
 set paste
 set nocompatible
+set number
 syntax on
 autocmd BufRead *.py set smartindent cinwords=if,elif,else,for,while,try,except,finally,def,class
 autocmd BufRead *.py set smarttab
