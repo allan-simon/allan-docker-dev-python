@@ -34,6 +34,7 @@
        - python3-pip
        - iputils-ping
        - dnsutils
+       - libpq-dev
 
     - name: Install ripgrep
       shell: |
