@@ -1,5 +1,5 @@
 # Re-use the phusion baseimage which runs an SSH server etc
-FROM phusion/baseimage:0.11
+FROM phusion/baseimage:focal-1.1.0
 
 # Some definitions
 ENV SUDOFILE /etc/sudoers
